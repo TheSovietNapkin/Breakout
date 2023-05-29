@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 732534615000119450, guid: d2242821dfa02594c9d63e9114495c2f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1157804725181886697, guid: d2242821dfa02594c9d63e9114495c2f, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -310,6 +314,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4216490683768806216, guid: 2b2cc425c1ad85b45aacb85542e0d312, type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7093904224789498529, guid: 2b2cc425c1ad85b45aacb85542e0d312, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -468,6 +476,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 732534615000119450, guid: 704732f28bb8b614380ffbe43ddd74d6, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1157804725181886697, guid: 704732f28bb8b614380ffbe43ddd74d6, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -621,7 +633,7 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -675,6 +687,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2122831360597496224, guid: d84469761df41f64b9574ad09e98f5be, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3767382838491053772, guid: d84469761df41f64b9574ad09e98f5be, type: 3}
+      propertyPath: m_IsKinematic
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4052707666329136784, guid: d84469761df41f64b9574ad09e98f5be, type: 3}
